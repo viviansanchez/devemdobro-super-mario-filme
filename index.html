@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Super Mario Bros - O Filme</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="background-video-wrapper">
+      <video class="background-video" autoplay loop muted>
+        <source src="./assets/video-mario.mp4" type="video/mp4" />
+      </video>
+    </div>
+
+    <header class="header">
+      <a href="#"
+        ><img
+          class="logo"
+          src="./assets/logo-chapeu-mario.png"
+          alt="Logo do site, um círculo vermelho com a letra m em maiúsculo no centro"
+      /></a>
+      <nav>
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Detalhes</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="container">
+      <div class="info-wrapper">
+        <img
+          class="info-image"
+          src="./assets/titulo.png"
+          alt="Imagem do logo Super Mario Bros"
+        />
+        <p class="description">
+          Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar
+          no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado
+          pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os
+          lugares
+        </p>
+        <button class="trailer-btn">Veja o trailer!</button>
+      </div>
+      <div class="image-wrapper">
+        <img
+          src="./assets/super-mario-chars.png"
+          alt="Imagem com os personagens de Super Mario. Da esquerda para a direita: Luigi, Mario, Princesa Peach e Toad"
+        />
+      </div>
+    </main>
+  </body>
+</html>
