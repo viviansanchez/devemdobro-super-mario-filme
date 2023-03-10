@@ -21,4 +21,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido no evento Semana do Zero ao Programador Contratado, disponibilizado pelo Dev em Dobro. Este projeto é uma Landing Page com informações a respeito do filme Super Mario Bros, que será lançado nos cinemas em Abril de 2023. Possui versão para Desktop e Mobile, e também um pop up para visualização do trailer do filme.
+Projeto desenvolvido no evento Semana do Zero ao Programador Contratado, disponibilizado pelo Dev em Dobro. Este projeto é uma Landing Page com informações a respeito do filme Super Mario Bros, que será lançado nos cinemas em Abril de 2023. Possui versão para Desktop e Mobile, e também um pop up para visualização do trailer do filme. Você pode visualizar o projeto através [DESTE LINK](https://viviansanchez.github.io/devemdobro-super-mario-filme/)!
